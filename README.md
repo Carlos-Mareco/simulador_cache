@@ -1,6 +1,6 @@
-# Expressao booleana
+# Simulador de cache
 
-A partir das saídas de um circuito no arquivo [input.txt](./input.txt) é gerada uma expressão booleana simplificada em formato de mintermos. Além de exibir o mapa de Karnaugh(ainda em desenvolvimento).
+Simula o acesso que o processador precisa realizar na memória cache, onde o processador precisa de um dado da memória principal, mas que esse dado deve ser referenciado na memória cache. Além de que, ao final da execução do programa, é informado a taxa de hits e misses que o processador contabilizou para encontrar a informação na cache. 
 
 ## Compilação e execução
 
