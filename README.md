@@ -26,6 +26,10 @@ Os parâmetros 4 e 32 são, respectivamente, as quantidades de endereços na mem
 **Editor/IDE:** [Visual Studio Code 1.61.0](https://code.visualstudio.com/).<br>
 **Compilador:** G++ 9.3.0.<br>
 
+## Licença
+
+Licenciado sob a [GNU General Public License](./LICENSE).
+
 ## Condirações finais
 
 Este programa faz parte de um dos componentes avaliativos da disciplina de Arquitetura de Computadores do Curso de Ciência da Computação da Universidade Federal do Amapá.
