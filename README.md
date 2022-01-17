@@ -2,7 +2,7 @@
 
 Simula o acesso que o processador precisa realizar na memória cache, onde o processador precisa de um dado da memória principal, mas que esse dado deve ser referenciado na memória cache. Além de que, ao final da execução do programa, é informado a taxa de hits e misses que o processador contabilizou para encontrar a informação na cache. 
 
-## Compilação e execução
+## <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> Compilação e execução
 
 Use o compilador G++ integrante da [GCC](https://gcc.gnu.org/) (GNU Compiler Collection) através do [Makefile](./Makefile).
 Certifique-se de estar no diretório do programa.
