@@ -30,6 +30,6 @@ Os parâmetros 4 e 32 são, respectivamente, as quantidades de endereços na mem
 
 Licenciado sob a [GNU General Public License](./LICENSE).
 
-## Condirações finais
+## Considerações finais
 
 Este programa faz parte de um dos componentes avaliativos da disciplina de Arquitetura de Computadores do Curso de Ciência da Computação da Universidade Federal do Amapá.
